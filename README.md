@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shady Mamdiuh</h1>
+<h1 align="center">Hi 👋, I'm Shady Mamdouh</h1>
 <h3 align="center">A passionate Software Engineering Student at Alx</h3>
 
 - 🔭 I’m currently studying **Software Engineering**
